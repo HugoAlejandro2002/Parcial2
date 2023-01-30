@@ -19,13 +19,15 @@
 ## White Screens:
 
 ### My course
-![image](https://user-images.githubusercontent.com/97768733/215606814-6634e6be-0801-4fb1-aa64-1bee62806e51.png)
+![image](https://user-images.githubusercontent.com/97768733/215607503-48ed4f00-a2e7-447c-b757-8fc5a0172891.png)
 
 ### WishList
-![image](https://user-images.githubusercontent.com/97768733/215606930-b3963e0a-5928-436a-af36-ca54872f7b09.png)
+![image](https://user-images.githubusercontent.com/97768733/215607701-0b3651bd-d306-4dc2-b8cc-fe1a0bc91d44.png)
 
 ### Account
-![image](https://user-images.githubusercontent.com/97768733/215606968-8b6876b3-1d82-447d-9498-1188f3c3e6ce.png)
+![image](https://user-images.githubusercontent.com/97768733/215607860-133c45a5-6b11-4304-8f3b-e1c687c573ff.png)
+
+
 
 
 
