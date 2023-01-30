@@ -1,5 +1,8 @@
 # Parcial2
 
+## Screen Completo
+![image](https://user-images.githubusercontent.com/97768733/215608099-f9cc6a4c-ac53-495b-8ef6-d206ae880948.png)
+
 ## Getting User
 
 ![image](https://user-images.githubusercontent.com/97768733/215606209-85325c5c-b1db-4582-bfa9-e444476e3bc7.png)
